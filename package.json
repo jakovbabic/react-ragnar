@@ -93,7 +93,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^21.2.1",
     "json-loader": "^0.5.4",
-    "node-sass": "^4.9.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.17.5",
     "postcss": "^6.0.14",
     "postcss-cssnext": "^3.0.2",
